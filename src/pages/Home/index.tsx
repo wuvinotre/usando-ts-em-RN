@@ -8,7 +8,7 @@ export function Home() {
 
   return (
     <S.Container>
-      <S.Title>Eae filho da puta</S.Title>
+      <S.Title>Olá amigo!</S.Title>
       <S.Button onPress={handleChangeTheme}>
         <S.TextButton>Trocar de tema</S.TextButton>
       </S.Button>
